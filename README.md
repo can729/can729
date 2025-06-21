@@ -1,28 +1,61 @@
-
-# <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Merhaba%2C+Ben+Abdullah+Can"><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=Abdullah+Can&color=191717">
-
-<div align="center">
+<h1 align="center">Hi 👋, I'm Can</h1>
+<h3 align="center">I'm an aspiring developer from Turkey 🚀</h3>
 
 <p align="center">
- <a href="https://discord.com/users/843136836947410945" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/can729" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.instagram.com/abdullahcann_baba/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Learning+HTML%2C+CSS+%26+JavaScript;Exploring+Node.js;Building+my+skills"
+    alt="Typing SVG"
+  />
+</p>
 
-## Hakkımda
+<hr />
 
-<samp>
-• Ben Can, 18 yaşındayım. Yazılım dünyasına büyük bir tutku duyuyorum ve kendimi bu alanda sürekli geliştiren çok yönlü bir geliştiriciyim. Yeni şeyler öğrenmeyi, farklı projeler üretmeyi ve her gün bir adım daha ileri gitmeyi seviyorum. Fikirlerim ve projelerimle sürekli kendimi zorluyor, yazılım serüvenimde hep yeni yollar keşfetmeye çalışıyorum.<br /><br />
+## 🌐 Connect with me:
+<p align="center">
+  <a href="https://github.com/can729" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://instagram.com/abdullahcann_baba" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+</p>
 
-• Bir uğra derim! [Tıkla]() <br />
-• Benim [Website]()
+<hr />
 
-</samp>
+## 👨‍💻 About Me:
+- 💻 I'm Can, 18 years old and currently learning HTML, CSS, and JavaScript.
+- 🚀 I have some experience with Node.js and eager to grow my skills.
+- 🌐 I don't have a personal website yet, but I'm working on building one soon.
 
-## Kullandığım Teknolojiler
+<hr />
 
-<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mysql,mongodb&perline=7">
+## 🛠️ Technologies I Use:
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
+  />
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Node.js"
+  />
+</p>
 
-## İstatistiklerim
-<div align="center" width="100%">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=can729&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=can729&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
+<hr />
+
+## ⚡ Fun Fact:
+- I love coding and improving myself every day!
