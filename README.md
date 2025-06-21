@@ -35,6 +35,19 @@
 
 <hr />
 
+## 🚧 Active Projects
+
+<p align="center">
+  <a href="https://github.com/can729/Website" target="_blank" rel="noopener noreferrer">
+    <strong>Website</strong>
+  </a> – A personal website project built with HTML, CSS, and JavaScript.<br /><br />
+  
+  <a href="https://github.com/can729/Orta-Seviye-Website" target="_blank" rel="noopener noreferrer">
+    <strong>Orta Seviye Website</strong>
+  </a> – An intermediate level website demonstrating more advanced front-end skills.
+</p>
+
+
 ## 🛠️ Technologies I Use:
 <p align="center">
   <img
